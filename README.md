@@ -1,3 +1,5 @@
-# newrepo
-Master Readme File
-Open respective branch README files and follpow the instructions
+# newrepo README
+
+Please read the instructions before you proceed!!
+1. Open github.com
+2. Create new repository
